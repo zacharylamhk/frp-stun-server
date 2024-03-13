@@ -1,0 +1,21 @@
+#docker-compose.yml
+
+version: '3'
+
+services:
+  frps:
+    container_name: joinyou-server-frps
+    image: snowdreamtech/frps
+    restart: unless-stopped
+    network_mode: host
+    volumes:
+      - ./frps/frps.toml:/etc/frp/frps.toml
+      - ./frps/frps.log:/etc/frp/frps.log
+
+  coturn:
+    container_name: joinyou-server-coturn
+    image: flaviostutz/coturn
+    network_mode: host
+    environment:
+      - TURN_USERNAME=aa_stun
+      - TURN_PASSWORD=aa_turn!!2023

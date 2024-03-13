@@ -1,0 +1,37 @@
+bindAddr = "0.0.0.0"
+bindPort = 7000
+
+kcpBindPort = 7000
+transport.maxPoolCount = 5
+tls.force = false
+vhostHTTPPort = 80
+vhostHTTPSPort = 443
+webServer.addr = "0.0.0.0"
+webServer.port = 7500
+webServer.user = "JoinAdmin"
+webServer.password = "JoinAdmin"
+webServer.pprofEnable = false
+enablePrometheus = true
+
+# console or real logFile path like ./frps.log
+log.to = "/etc/frp/frps.log"
+# trace, debug, info, warn, error
+log.level = "info"
+log.maxDays = 3
+# disable log colors when log.to is console, default is false
+log.disablePrintColor = false
+
+# DetailedErrorsToClient defines whether to send the specific error (with debug info) to frpc. By default, this value is true.
+detailedErrorsToClient = true
+
+# auth.method specifies what authentication method to use authenticate frpc with frps.
+# If "token" is specified - token will be read into login message.
+# If "oidc" is specified - OIDC (Open ID Connect) token will be issued using OIDC settings. By default, this value is "token".
+auth.method = "token"
+
+# auth.additionalScopes specifies additional scopes to include authentication information.
+# Optional values are HeartBeats, NewWorkConns.
+# auth.additionalScopes = ["HeartBeats", "NewWorkConns"]
+
+# auth token
+auth.token = "99887766"
