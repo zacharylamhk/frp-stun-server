@@ -17,5 +17,5 @@ services:
     image: flaviostutz/coturn
     network_mode: host
     environment:
-      - TURN_USERNAME=aa_stun
-      - TURN_PASSWORD=aa_turn!!2023
+      - TURN_USERNAME=####
+      - TURN_PASSWORD=####
