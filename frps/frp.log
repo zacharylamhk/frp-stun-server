@@ -1,0 +1,58 @@
+2024-07-11 15:13:43.438 [I] [frps/root.go:105] frps uses config file: /etc/frp/frps.toml
+2024-07-11 15:13:43.586 [I] [server/service.go:237] frps tcp listen on 0.0.0.0:7000
+2024-07-11 15:13:43.586 [I] [server/service.go:246] frps kcp listen on udp 0.0.0.0:7000
+2024-07-11 15:13:43.586 [I] [server/service.go:304] http service listen on 0.0.0.0:80
+2024-07-11 15:13:43.586 [I] [server/service.go:318] https service listen on 0.0.0.0:443
+2024-07-11 15:13:43.586 [I] [frps/root.go:114] frps started successfully
+2024-07-11 15:13:43.586 [I] [server/service.go:350] dashboard listen on 0.0.0.0:7500
+2024-07-11 15:16:25.428 [I] [frps/root.go:105] frps uses config file: /etc/frp/frps.toml
+2024-07-11 15:16:25.554 [I] [server/service.go:237] frps tcp listen on 0.0.0.0:7000
+2024-07-11 15:16:25.554 [I] [server/service.go:246] frps kcp listen on udp 0.0.0.0:7000
+2024-07-11 15:16:25.554 [I] [server/service.go:304] http service listen on 0.0.0.0:80
+2024-07-11 15:16:25.554 [I] [server/service.go:318] https service listen on 0.0.0.0:443
+2024-07-11 15:16:25.554 [I] [frps/root.go:114] frps started successfully
+2024-07-11 15:16:25.554 [I] [server/service.go:350] dashboard listen on 0.0.0.0:7500
+2024-07-11 15:17:29.543 [I] [frps/root.go:105] frps uses config file: /etc/frp/frps.toml
+2024-07-11 15:17:29.598 [I] [server/service.go:237] frps tcp listen on 0.0.0.0:7000
+2024-07-11 15:17:29.598 [I] [server/service.go:246] frps kcp listen on udp 0.0.0.0:7000
+2024-07-11 15:17:29.598 [I] [server/service.go:304] http service listen on 0.0.0.0:80
+2024-07-11 15:17:29.598 [I] [server/service.go:318] https service listen on 0.0.0.0:443
+2024-07-11 15:17:29.598 [I] [frps/root.go:114] frps started successfully
+2024-07-11 15:17:29.598 [I] [server/service.go:350] dashboard listen on 0.0.0.0:7500
+2024-07-11 15:19:14.548 [I] [frps/root.go:105] frps uses config file: /etc/frp/frps.toml
+2024-07-11 15:19:14.765 [I] [server/service.go:237] frps tcp listen on 0.0.0.0:7000
+2024-07-11 15:19:14.765 [I] [server/service.go:246] frps kcp listen on udp 0.0.0.0:7000
+2024-07-11 15:19:14.765 [I] [server/service.go:304] http service listen on 0.0.0.0:80
+2024-07-11 15:19:14.765 [I] [server/service.go:318] https service listen on 0.0.0.0:443
+2024-07-11 15:19:14.765 [I] [frps/root.go:114] frps started successfully
+2024-07-11 15:19:14.765 [I] [server/service.go:350] dashboard listen on 0.0.0.0:7500
+2024-07-11 15:21:04.342 [I] [frps/root.go:105] frps uses config file: /etc/frp/frps.toml
+2024-07-11 15:21:04.434 [I] [server/service.go:237] frps tcp listen on 0.0.0.0:7000
+2024-07-11 15:21:04.434 [I] [server/service.go:246] frps kcp listen on udp 0.0.0.0:7000
+2024-07-11 15:21:04.435 [I] [server/service.go:304] http service listen on 0.0.0.0:80
+2024-07-11 15:21:04.435 [I] [server/service.go:318] https service listen on 0.0.0.0:443
+2024-07-11 15:21:04.435 [I] [frps/root.go:114] frps started successfully
+2024-07-11 15:21:04.435 [I] [server/service.go:350] dashboard listen on 0.0.0.0:7500
+2024-07-11 15:22:26.681 [I] [frps/root.go:105] frps uses config file: /etc/frp/frps.toml
+2024-07-11 15:22:26.865 [I] [server/service.go:237] frps tcp listen on 0.0.0.0:7000
+2024-07-11 15:22:26.865 [I] [server/service.go:246] frps kcp listen on udp 0.0.0.0:7000
+2024-07-11 15:22:26.865 [I] [server/service.go:304] http service listen on 0.0.0.0:80
+2024-07-11 15:22:26.866 [I] [server/service.go:318] https service listen on 0.0.0.0:443
+2024-07-11 15:22:26.866 [I] [frps/root.go:114] frps started successfully
+2024-07-11 15:22:26.866 [I] [server/service.go:350] dashboard listen on 0.0.0.0:7500
+2024-07-11 15:24:44.285 [I] [frps/root.go:105] frps uses config file: /etc/frp/frps.toml
+2024-07-11 15:24:44.368 [I] [server/service.go:237] frps tcp listen on 0.0.0.0:7000
+2024-07-11 15:24:44.368 [I] [server/service.go:246] frps kcp listen on udp 0.0.0.0:7000
+2024-07-11 15:24:44.368 [I] [server/service.go:304] http service listen on 0.0.0.0:80
+2024-07-11 15:24:44.368 [I] [server/service.go:318] https service listen on 0.0.0.0:443
+2024-07-11 15:24:44.368 [I] [frps/root.go:114] frps started successfully
+2024-07-11 15:24:44.368 [I] [server/service.go:350] dashboard listen on 0.0.0.0:7500
+2024-07-11 15:27:14.953 [I] [frps/root.go:105] frps uses config file: /etc/frp/frps.toml
+2024-07-11 15:27:15.043 [I] [server/service.go:237] frps tcp listen on 0.0.0.0:7000
+2024-07-11 15:27:15.044 [I] [server/service.go:246] frps kcp listen on udp 0.0.0.0:7000
+2024-07-11 15:27:15.044 [I] [server/service.go:304] http service listen on 0.0.0.0:80
+2024-07-11 15:27:15.044 [I] [server/service.go:318] https service listen on 0.0.0.0:443
+2024-07-11 15:27:15.044 [I] [frps/root.go:114] frps started successfully
+2024-07-11 15:27:15.044 [I] [server/service.go:350] dashboard listen on 0.0.0.0:7500
+2024-07-11 15:28:11.631 [I] [server/dashboard_api.go:109] Http request: [/api/serverinfo]
+2024-07-11 15:28:11.631 [I] [server/dashboard_api.go:102] Http response [/api/serverinfo]: code [200]
